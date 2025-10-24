@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/fragmento_bajo1" android:icon="@android:drawable/ic_menu_directions" android:title="Fragmento 1"/>
+    <item android:id="@+id/fragmento_bajo2" android:icon="@android:drawable/ic_menu_compass" android:title="Fragmento 2"/>
+    <item android:id="@+id/fragmento_bajo3" android:icon="@android:drawable/ic_menu_mapmode" android:title="Fragmento 3"/>
+</menu>

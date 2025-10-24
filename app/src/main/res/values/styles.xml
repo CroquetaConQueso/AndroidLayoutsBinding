@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EstiloPersonalizadoBottomNavigationView"
+        parent="Widget.Material3.BottomNavigationView">
+
+        <!-- Color del fondo -->
+        <item name="backgroundTint">@color/colorFondoMenuBajo</item>
+
+        <!-- Color de íconos -->
+        <!-- <item name="itemIconTint">@color/bottom_nav_item_color</item>-->
+
+        <!-- Color del texto -->
+        <!-- <item name="itemTextColor">@color/bottom_nav_item_color</item>-->
+
+        <!-- Indicador activo (Material3) -->
+        <!-- <item name="itemActiveIndicatorStyle">@style/ShapeAppearance.MiApp.ActiveIndicator</item>-->
+    </style>
+</resources>
