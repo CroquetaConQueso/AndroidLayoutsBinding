@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
     // Menú de opciones en la Toolbar (ya tienes menu_options)
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_options, menu);
+        getMenuInflater().inflate(R.menu.options_menu, menu);
         return true;
     }
 
